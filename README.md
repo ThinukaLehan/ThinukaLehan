@@ -36,11 +36,11 @@ Welcome to my GitHub profile! I'm a **Software Engineer** and a **third-year Sof
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
 
-### Database:
+### **Database & Cloud:**
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
 
 ### DevOps & Tools:
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
@@ -77,6 +77,14 @@ Welcome to my GitHub profile! I'm a **Software Engineer** and a **third-year Sof
 - 🔗 Contributed to various **open-source projects**.
 - 🚀 Active participant in **GitHub discussions and issues**.
 - 🏆 Love solving **challenges on LeetCode & CodeWars**.
+
+---
+
+## 🌟 Achievements
+- 📚 Research Paper: **Skill2Skill - A Semantic-Based Matching Algorithm**
+- 🎓 **Batch Representative - IIT (2024/2025 & 2023/2024)**
+- ⚜️ IEEE Member | Rotaract Club Member (IIT)
+- 🎤 **All-Island Music Competition - 1st Place**
 
 ---
 
