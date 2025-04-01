@@ -59,7 +59,6 @@ Welcome to my GitHub profile! I'm a **Software Engineer** and a **third-year Sof
 ---
 
 ## 📈 GitHub Stats
-![Thinuka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThinukaLehan&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThinukaLehan&layout=compact&theme=radical)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ThinukaLehan&theme=radical)
 
