@@ -68,9 +68,8 @@ Welcome to my GitHub profile! I'm a **Software Engineer** and a **third-year Sof
 ## 🚀 Latest Projects
 - 🛡 **Encrypted Chat System** - A secure chat system with **end-to-end encryption**.
 - 🎟 **Real-Time Event Ticketing System** - A platform for seamless event booking.
-- 🔍 **AI-Powered Disaster Notification System** - A machine learning-powered system for predicting and alerting disasters.
+- 🔍 **Predicting Cancer Patients' Survival Months** - A machine learning-powered system for predicting and alerting patients.
 - 🤝 **Skill2Skill** - A platform to exchange skills without involving money.
-- 🗺 **Live Location Sharing System** - A mobile app with emergency SOS and live tracking.
 
 ---
 
@@ -82,7 +81,7 @@ Welcome to my GitHub profile! I'm a **Software Engineer** and a **third-year Sof
 ---
 
 ## 🎯 Goals for 2025
-- 🚀 **Mastering Full Stack Development** with **Next.js, NestJS, and GraphQL**.
+- 🚀 **Mastering Full Stack Development** with **Next.js, NestJS, AWS and GraphQL**.
 - 🏗 **Building scalable and production-ready SaaS applications**.
 - 💡 **Exploring AI-powered blockchain solutions**.
 - 📝 **Writing more tech blogs and tutorials**.
@@ -90,8 +89,9 @@ Welcome to my GitHub profile! I'm a **Software Engineer** and a **third-year Sof
 ---
 
 ## 📫 Connect with Me
-- 💼 [[LinkedIn](https://www.linkedin.com/in/thinuka-lehan/)]
-- 🌐 [Portfolio](thinukalehan.com)
-- 📧 Email: thinukalehanhm@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/thinuka-lehan/)
+- 🌐 [Portfolio](https://thinukalehan.com)
+- 📧 Email: [thinukalehanhm@gmail.com](mailto:thinukalehanhm@gmail.com)
+- 📞 Call Me: [Click to Call](tel:+94717557551)
 
 Let's connect and collaborate on exciting projects! 🚀
